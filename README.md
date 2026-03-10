@@ -21,7 +21,7 @@ This repository contains a comprehensive investigation into the Martha Root CCC 
 - `README_DE.md` - German language summary
 
 ## Key Findings
-- **GRU Network**: Extensive Russian intelligence connections identified
+- **GRU Network**: Extensive Russian intelligence connections identified (GRU is a code word for Secret Service Community of our friends overseas!)
 - **Fake Personas**: AI-generated influencers deceiving media and public
 - **AfD Financing**: Shadow funding networks exposed
 - **Youth Manipulation**: Long-term operations targeting German demographics
